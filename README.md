@@ -26,4 +26,4 @@ Current Best: 53
 Weight is: 82
 ```
 
-[Genetic Algorithms in Elixir](https://github.com/luk4z7/genetic/blob/master/copy.png)
+![Genetic Algorithms in Elixir](https://github.com/luk4z7/genetic/blob/master/copy.png)
