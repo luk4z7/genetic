@@ -16,6 +16,7 @@ defmodule Speller do
     guess = List.to_string(chromosome.genes)
 
     String.jaro_distance(target, guess) # returns the similarity between the two words
+    #String.bag_distance(target, guess)
   end
 
   def terminate?([best | _]), do: best.fitness == 1
